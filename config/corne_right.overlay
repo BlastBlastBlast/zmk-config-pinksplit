@@ -1,4 +1,4 @@
-#include "pinksplit.dtsi"
+#include "corne.dtsi"
 
 &default_transform { 
     col-offset = <8>;  // Updated: 7 columns on left + 1 gap = 8
